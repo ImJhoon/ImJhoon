@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:667eea,60:764ba2,100:e040fb&height=300&text=Jaehoon&animation=twinkling&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Backend%20Developer%20%7C%20Crafting%20Clean%20Code&descSize=20&descAlignY=55&descColor=d4d4d4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1e3a8a,60:3b82f6,100:38bdf8&height=220&text=Jaehoon&animation=twinkling&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Backend%20Developer%20%7C%20Crafting%20Clean%20Code&descSize=16&descAlignY=58&descColor=d4d4d4" width="100%" />
 
 <!-- Typing SVG -->
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=764ba2&center=true&vCenter=true&random=false&width=500&lines=Code.+Build.+Repeat.+%F0%9F%9A%80;Java+%26+Spring+Lover+%E2%98%95;Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38bdf8&center=true&vCenter=true&random=false&width=450&lines=Code.+Build.+Repeat.+%F0%9F%9A%80;Java+%26+Spring+Lover+%E2%98%95;Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 </div>
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:e040fb&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
 
 <!-- About Me -->
 <div align="center">
@@ -36,7 +36,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:e040fb&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
 
 <!-- Tech Stacks -->
 <div align="center">
@@ -69,7 +69,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:e040fb&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -80,14 +80,14 @@
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImJhoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=764ba2&text_color=c9d1d9" height="150" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=ImJhoon&theme=tokyonight&hide_border=true&background=0d1117&ring=e040fb&fire=764ba2&currStreakLabel=e040fb&sideLabels=e040fb" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImJhoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=3b82f6&text_color=c9d1d9" height="150" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=ImJhoon&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=38bdf8" height="150" />
 
 <br><br>
 
 </div>
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:e040fb&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
 
 <!-- Contact -->
 <div align="center">
@@ -113,23 +113,23 @@
 </div>
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:e040fb&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
 
 <!-- Ending -->
 <div align="center">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=9999&color=764ba2&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+Have+a+great+day" alt="Thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=9999&color=38bdf8&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+Have+a+great+day" alt="Thanks" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ImJhoon&style=for-the-badge&color=667eea&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ImJhoon&style=for-the-badge&color=3b82f6&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br><br>
 
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e040fb,30:764ba2,60:667eea,100:0d1117&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:38bdf8,30:3b82f6,60:1e3a8a,100:0d1117&height=120&section=footer" width="100%" />
 </div>

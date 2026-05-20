@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🙋‍♂️_About_Me-0d1117?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/🙋‍♂️_About_Me-0d1117?style=for-the-badge&logoColor=white" height="60" />
 
 <br>
 
@@ -43,25 +43,18 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🛠️_Tech_Stacks-0d1117?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/🛠️_Tech_Stacks-0d1117?style=for-the-badge&logoColor=white" height="60" />
 
 <br>
 
 <h4>Backend</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" alt="Backend Skills" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" alt="Backend Skills" />
 
 <h4>Frontend</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Skills" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Skills" />
 
 <h4>Tools</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea&theme=dark" alt="Tool Skills" />
-</a>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=git,vscode,idea&theme=dark" alt="Tool Skills" />
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" height="48" />
 
 <br>
@@ -76,7 +69,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📊_GitHub_Stats-0d1117?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/📊_GitHub_Stats-0d1117?style=for-the-badge&logoColor=white" height="60" />
 
 <br>
 
@@ -94,7 +87,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📬_Contact-0d1117?style=for-the-badge&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/📬_Contact-0d1117?style=for-the-badge&logoColor=white" height="60" />
 
 <br>
 

@@ -86,10 +86,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImJhoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e040fb&text_color=c9d1d9" height="160" />
-
-<br>
-
 </div>
 
 <!-- Divider -->

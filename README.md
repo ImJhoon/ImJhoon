@@ -80,9 +80,7 @@
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImJhoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=764ba2&text_color=c9d1d9" height="180" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ImJhoon&theme=tokyonight&hide_border=true&background=0d1117&ring=e040fb&fire=764ba2&currStreakLabel=e040fb&sideLabels=e040fb" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImJhoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=764ba2&text_color=c9d1d9" height="150" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=ImJhoon&theme=tokyonight&hide_border=true&background=0d1117&ring=e040fb&fire=764ba2&currStreakLabel=e040fb&sideLabels=e040fb" height="150" />
 
 <br><br>
 

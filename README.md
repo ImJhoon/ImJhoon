@@ -39,6 +39,30 @@
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
 
+<!-- Currently Learning -->
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/🌱_Currently_Learning-1e3a8a?style=for-the-badge&logoColor=white" height="60" alt="Currently Learning" />
+
+<br>
+<br>
+
+<p>
+  Java와 Spring의 핵심 원리<br>
+  객체지향 설계와 책임이 명확한 코드<br>
+  데이터베이스 모델링과 효율적인 데이터 처리<br>
+  테스트하기 쉽고 유지보수하기 좋은 백엔드 구조
+</p>
+
+<br>
+
+</div>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
+
 <!-- Tech Stacks -->
 <div align="center">
 
@@ -56,7 +80,6 @@
 
 <h4>Tools</h4>
 <img src="https://skillicons.dev/icons?i=git,vscode,idea&theme=dark" alt="Tool Skills" align="middle" />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" height="48" align="middle" />
 
 <br>
 
@@ -74,8 +97,7 @@
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImJhoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=3b82f6&text_color=c9d1d9" height="150" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=ImJhoon&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=38bdf8" height="150" />
-
+<img src="https://github-stats-extended.vercel.app/api?username=ImJhoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=3b82f6&text_color=c9d1d9" height="150" alt="GitHub stats" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=ImJhoon&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=38bdf8" height="150" alt="GitHub streak" />
 <br><br>
 
 </div>
@@ -102,6 +124,10 @@
 
 <a href="mailto:jhjh9907@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://velog.io/@imjhoon/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
 </a>
 <br><br>
 

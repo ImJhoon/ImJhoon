@@ -128,6 +128,3 @@
 <br><br>
 
 </div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:38bdf8,30:3b82f6,60:1e3a8a,100:0d1117&height=120&section=footer" width="100%" />

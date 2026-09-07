@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="120" viewBox="0 0 960 120" fill="none">
+  <title>Jaehoon — Backend Developer</title>
+  <desc>A compact ivory banner with terracotta lettering and a code symbol.</desc>
+  <rect width="960" height="120" rx="14" fill="#F6F2EB"/>
+  <rect x="32" y="32" width="4" height="56" rx="2" fill="#B65C43"/>
+  <text x="54" y="59" fill="#302C29" font-family="Arial, sans-serif" font-size="30" font-weight="700">Jaehoon.</text>
+  <text x="55" y="84" fill="#72665D" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BACKEND DEVELOPER</text>
+  <circle cx="865" cy="60" r="38" fill="#ECE5DA"/>
+  <path d="M850 47L838 60L850 73M880 47L892 60L880 73M870 42L860 78" stroke="#B65C43" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" fill="none">
+  <title>Jaehoon — Backend Developer</title>
+  <desc>A warm ivory header with terracotta accents and a geometric code illustration.</desc>
+  <rect width="960" height="240" rx="20" fill="#F6F2EB"/>
+  <path d="M0 220H960" stroke="#E6DED2"/>
+  <rect x="48" y="43" width="26" height="4" rx="2" fill="#B65C43"/>
+  <text x="86" y="50" fill="#826F60" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">BACKEND DEVELOPER</text>
+  <text x="45" y="127" fill="#302C29" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-3">Jaehoon.</text>
+  <text x="49" y="164" fill="#72665D" font-family="Arial, sans-serif" font-size="18">Thoughtful code. Steady growth.</text>
+  <text x="49" y="199" fill="#B65C43" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">JAVA / SPRING / MYSQL</text>
+  <circle cx="802" cy="120" r="78" fill="#ECE5DA"/>
+  <rect x="709" y="60" width="177" height="121" rx="12" fill="#FFFCF7" stroke="#D9CDBD"/>
+  <path d="M709 88H886" stroke="#E6DED2"/>
+  <circle cx="725" cy="74" r="3" fill="#B65C43"/>
+  <circle cx="737" cy="74" r="3" fill="#CAB79F"/>
+  <circle cx="749" cy="74" r="3" fill="#87917D"/>
+  <path d="M766 113L748 133L766 153M827 113L845 133L827 153M807 109L787 157" stroke="#B65C43" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="893" cy="48" r="6" fill="#87917D"/>
+  <path d="M695 184V196M689 190H701" stroke="#B65C43" stroke-width="2" stroke-linecap="round"/>
+</svg>

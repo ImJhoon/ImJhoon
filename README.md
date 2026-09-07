@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/🙋‍♂️_About_Me-1e3a8a?style=for-the-badge&logoColor=white" height="60" />
 
 <br>
-<br>
 
 <p>
   좋은 코드 한 줄이 시스템을 바꾼다고 믿는 백엔드 개발자 <b>한재훈</b>입니다.<br>
@@ -30,30 +29,6 @@
   오늘의 배움이 내일의 설계가 되도록 꾸준히 성장하고 있습니다.<br>
   <br>
   단순히 동작하는 코드가 아닌, <i>읽기 좋고 확장하기 쉬운 구조</i>를 늘 고민합니다.
-</p>
-
-<br>
-
-</div>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:38bdf8&height=2" width="100%" />
-
-<!-- Currently Learning -->
-<div align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/🌱_Currently_Learning-1e3a8a?style=for-the-badge&logoColor=white" height="60" alt="Currently Learning" />
-
-<br>
-<br>
-
-<p>
-  Java와 Spring의 핵심 원리<br>
-  객체지향 설계와 책임이 명확한 코드<br>
-  데이터베이스 모델링과 효율적인 데이터 처리<br>
-  테스트하기 쉽고 유지보수하기 좋은 백엔드 구조
 </p>
 
 <br>
@@ -73,7 +48,10 @@
 <br>
 
 <h4>Backend</h4>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=java,spring,redis&theme=dark" alt="Java, Spring, Redis" />
+
+<h4>Database</h4>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" />
 
 <h4>Frontend</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Skills" />
@@ -153,4 +131,3 @@
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:38bdf8,30:3b82f6,60:1e3a8a,100:0d1117&height=120&section=footer" width="100%" />
-</div>

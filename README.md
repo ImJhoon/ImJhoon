@@ -10,7 +10,6 @@
 
 <!-- About Me -->
 <div align="center">
-<br>
 <img src="https://img.shields.io/badge/🙋‍♂️_About_Me-1e3a8a?style=for-the-badge&logoColor=white" height="60" />
 
 <br>

@@ -3,12 +3,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1e3a8a,60:3b82f6,100:38bdf8&height=220&text=Jaehoon&animation=twinkling&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Backend%20Developer%20%7C%20Crafting%20Clean%20Code&descSize=16&descAlignY=58&descColor=d4d4d4" width="100%" />
 
-<!-- Typing SVG -->
-<br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38bdf8&center=true&vCenter=true&random=false&width=450&lines=Code.+Build.+Repeat.+%F0%9F%9A%80;Java+%26+Spring+Lover+%E2%98%95;Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
-
 </div>
 
 <!-- Divider -->
